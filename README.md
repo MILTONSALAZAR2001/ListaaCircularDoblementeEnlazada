@@ -1,2 +1,2 @@
-# ListaaCircularDoblementeEnlazada
-estructura
+# ListaCircularDoblementeEnlazada
+Practica clase listas doblemente enlazadas
